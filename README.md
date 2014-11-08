@@ -2,5 +2,5 @@
 =====
 Fall Semester
 =====
-<h3>Period 6
+Period 6
 =====

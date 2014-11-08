@@ -16,7 +16,8 @@
 <p>A blog site that allows for blogs to be posted based on new topics or already existing topics
 #####HTTPS Clone Link: https://github.com/trunkatedpig/EricEricAaronBlog.git
 =====
-##Mini Projects =====
+##Mini Projects 
+=====
 * login
   * Eric Morgenstern, Matthew Cook
   * 6/login/morgenstern_matt

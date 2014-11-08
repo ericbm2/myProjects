@@ -1,6 +1,10 @@
-<h1>Eric Morgenstern
+#Eric Morgenstern
 =====
-Fall Semester
+#Fall Semester
 =====
 <p>Period 6</p>
 =====
+##Major Projects
+=====
+
+

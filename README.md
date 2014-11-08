@@ -1,6 +1,6 @@
 <h1>Eric Morgenstern
 =====
-Fall Semester
+Fall Semester</h1>
 =====
-Period 6
+<h3>Period 6
 =====

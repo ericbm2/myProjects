@@ -22,7 +22,6 @@
 #####HTTPS Clone Link: https://github.com/coweaver/Cooper_Eric.git
 =====
 ##Mini Projects 
-=====
 * login
   * Eric Morgenstern, Matthew Cook
   * 6/login/morgenstern_matt

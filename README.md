@@ -15,6 +15,7 @@
 #####Team Members: Eric Morgenstern, Aaron Mortenson, Daniel Zabari, Eric Liao
 <p>A blog site that allows for blogs to be posted based on new topics or already existing topics
 #####HTTPS Clone Link: https://github.com/trunkatedpig/EricEricAaronBlog.git
+
 ###API: Fantasy Football Top Players
 #####Team Members: Eric Morgenstern, Cooper Weaver
 <p>A program that returns the top five fantasy football players for a selected NFL team

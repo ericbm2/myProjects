@@ -6,6 +6,9 @@
 =====
 ##Major Projects
 =====
+###Qamba: The Music Player
+#####Team Members: Eric Morgenstern, Mark Norwich, Andreas Wang, Cooper Weaver
+<p>A music player that incorporates Spotify but that also incorporates weekly contests for user-posted music.
 ###Who/When Search Engine
 #####Team Members: Eric Morgenstern, Matthew Cook, Benedict Bolton, Deanna Taylor 
 <p>A question/answer system that is capable of answering a question beginning with who or when
